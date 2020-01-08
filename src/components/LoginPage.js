@@ -4,6 +4,7 @@ import {Redirect} from 'react-router-dom';
 class LoginPage extends React.Component {
 
     //this is another random comment
+    //and this comment is to be merged with alpha
     
     state = {
         loggedIn: false,
