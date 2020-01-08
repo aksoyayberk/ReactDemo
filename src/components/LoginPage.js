@@ -3,6 +3,8 @@ import {Redirect} from 'react-router-dom';
 
 class LoginPage extends React.Component {
 
+    //this is another random comment
+    
     state = {
         loggedIn: false,
         username: "",
